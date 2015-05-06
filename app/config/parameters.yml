@@ -1,0 +1,14 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: mysql.hostinger.fr
+    database_port: null
+    database_name: u656386789_gsb
+    database_user: u656386789_mat
+    database_password: LM131209
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 1a7471f51ca455bee5797f70887ed56eee9519e2
